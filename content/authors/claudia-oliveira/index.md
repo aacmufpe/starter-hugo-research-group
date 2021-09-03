@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cláudia Alves de Oliveira
+title: Dra. Cláudia Alves de Oliveira
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,13 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: Professora Titular
 
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal de Pernambuco
   url: "www.ufpe.br"
+role: Professora titular
 
 # Short bio (displayed in user profile at end of posts)
 bio: Líder do grupo de pesquisa
