@@ -5,7 +5,7 @@
 
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 10  # Order that this section will appear.
+weight: 5  # Order that this section will appear.
 title: |
   AACM UFPE  
   Grupo de Pesquisa
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-O grupo de pesquisa Arqueologia da Alimentação e Cultura Material teve início em março 2013 com o objetivo de estudar os hábitos alimentares, assim como a sua influencia sobre a cultura material de grupos pretéritos. Procura-se a relação cultura e alimentação a partir da cultura material e dos vestígios orgânicos e químicos identificados no contexto arqueológico, as particularidades, processos, mudança e continuidade dos sistemas técnicos em uma perspectiva arqueológica.
+O grupo de pesquisa Arqueologia da Alimentação e Cultura Material teve início em março 2013 com o objetivo de estudar os hábitos alimentares, assim como a sua influencia sobre a cultura material de grupos pretéritos.
