@@ -16,7 +16,6 @@ role: Professora Titular
 organizations:
 - name: Universidade Federal de Pernambuco
   url: "www.ufpe.br"
-role: Professora titular
 
 # Short bio (displayed in user profile at end of posts)
 bio: Líder do grupo de pesquisa
