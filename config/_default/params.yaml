@@ -20,7 +20,6 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: olivas@hotlink.com
 address:
   street: Centro de Filosofia e Ciências Humanas, 10º andar | Av. da Arquitetura, s/n - Cidade Universitária
   city: Recife
@@ -34,11 +33,6 @@ coordinates:
 directions: false
 office_hours: false
 appointment_url: false
-#contact_links: false
-  - icon: false
-    icon_pack: fab
-    name: DM Me
-    link: ''
 #  - icon: comments
 #    icon_pack: fas
 #    name: Discuss on Forum
