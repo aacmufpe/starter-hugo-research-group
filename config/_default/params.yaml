@@ -19,7 +19,7 @@ description: Grupo de Pesquisa Arqueologia da Alimentação e Cultura Material
 twitter: ''
 
 # Contact (edit or remove options as required)
-
+e-mail: olivas@hotlink.com
 address:
   street: Centro de Filosofia e Ciências Humanas, 10º andar Av. da Arquitetura, S/N - Cidade Universitária
   city: Recife
@@ -33,7 +33,7 @@ coordinates:
 directions: false
 office_hours: false
 appointment_url: false
-contact_links:
+contact_links: false
   - icon: false
     icon_pack: fab
     name: DM Me
