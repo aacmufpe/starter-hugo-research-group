@@ -18,7 +18,7 @@ organizations:
   url: "www.ufpe.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Líder do grupo de pesquisa
+bio: Professora titular do Programa de Pós-Graduação em Arqueologia
 
 interests:
 - Cerâmica arqueológica
@@ -27,15 +27,19 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Doutorado em Arqueologia
+    institution: Universidade de São Paulo, USP, Brasil
+    year: 2000
+  - course: Mestrado em História
+    institution: Universidade Federal de Pernambuco
+    year: 1990
+  - course: Gradução em História
+    institution: Universidade Federal de Pernambuco
+    year: 1983
+
+
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +48,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: 'mailto:olivas@hotlink.com'
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,4 +66,4 @@ user_groups:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Possui graduação em História pela Universidade Federal de Pernambuco (1983), mestrado em História pela Universidade Federal de Pernambuco (1990) e doutorado em Arqueologia pela Universidade de São Paulo (2000). Atualmente é professor associado IV da Universidade Federal de Pernambuco. Tem experiência na área de Arqueologia, com ênfase em Arqueologia Pré-Histórica, atuando principalmente nos seguintes temas: pré-história do nordeste, grupos pré-históricos ceramistas, patrimônio cultural, turismo cultural, história colonial e arqueologia histórica com enfase na área de arqueologia de engenho.
