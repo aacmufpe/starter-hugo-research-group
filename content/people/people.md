@@ -16,12 +16,14 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-  - Principal Investigators
-  - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
-  - Alumni
+  - Líder do Grupo
+  - Pesquisador(a)
+  - Doutorando(a)
+  - Mestrando(a)
+  - Graduando(a)
+  - Administrativo
+  - Pesquisador(a) visitante
+  - Aluno(a)
 design:
   show_interests: false
   show_role: true
