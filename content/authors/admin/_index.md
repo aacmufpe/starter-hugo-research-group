@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Igor Pedroza
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Doutorando em Arqueologia
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universidade Federal de Pernambuco
+  url: "www.ufpe.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Pesquisa a horticultura de grupso pré-coloniais
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Horticultura pré-colonial
+- Geoarqueologia
+- GIS
 
 education:
   courses:
