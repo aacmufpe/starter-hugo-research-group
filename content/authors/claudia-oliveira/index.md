@@ -2,10 +2,6 @@
 # Display name
 title: Dra. Cláudia Alves de Oliveira
 
-# Username (this should match the folder name)
-authors:
-- claudia-oliveira
-
 # Is this the primary user of the site?
 superuser: true
 
