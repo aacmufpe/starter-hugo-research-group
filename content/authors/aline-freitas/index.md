@@ -6,7 +6,7 @@ title: Aline Gonçalves de Freitas
 superuser: true
 
 # Role/position
-role: Doutorando em Arqueologia
+role: Doutoranda em Arqueologia
 
 # Organizations/Affiliations
 organizations:
