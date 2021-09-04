@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Pesquisa a horticultura de grupso pré-coloniais
 
-Interesses:
+interests:
 - Horticultura pré-colonial
 - Geoarqueologia
 - GIS
 
-Education:
+education:
   courses:
   - course: Doutorado em Arqueologia
     institution: Universidade Federal de Pernambuco
