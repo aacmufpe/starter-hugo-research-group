@@ -20,4 +20,4 @@ design:
 
 <br>
 
-O grupo de pesquisa Arqueologia da Alimentação e Cultura Material (AACM)teve início em março 2013 com o objetivo de estudar os hábitos alimentares, assim como a sua influencia sobre a cultura material de grupos pretéritos.
+O grupo de pesquisa **Arqueologia da Alimentação e Cultura Material (AACM)** foi criado em março de 2013 e tem  objetivo de estudar os hábitos alimentares, assim como a sua influência sobre a cultura material de grupos pretéritos.
