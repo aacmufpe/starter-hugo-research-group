@@ -6,7 +6,7 @@ title: Emília Maria Almeida Arnaldo
 superuser: true
 
 # Role/position
-role: Doutorando em Arqueologia
+role: Doutoranda em Arqueologia
 
 # Organizations/Affiliations
 organizations:
