@@ -25,7 +25,7 @@ content:
   - Pesquisador(a) visitante
   - Aluno(a)
 design:
-  show_interests: true
-  show_role: true
+  show_interests: false
+  show_role: false
   show_social: true
 ---
