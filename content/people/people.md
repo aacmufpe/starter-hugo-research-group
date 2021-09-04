@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 68
 
-title: Equipe de pesquisadores(as)
+title: Equipe
 subtitle:
 
 content:
