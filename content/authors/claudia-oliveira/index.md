@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Dra. Cláudia Alves de Oliveira
+title: Claudia Alves de Oliveira
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professora Titular
+role: Professora titular
 
 # Organizations/Affiliations
 organizations:
@@ -14,28 +14,29 @@ organizations:
   url: "www.ufpe.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Professora titular do Programa de Pós-Graduação em Arqueologia
+bio: Professora do Departamento de Arqueologia da UFPE
 
 interests:
-- Cerâmica arqueológica
-- Grupos Tupiguarani
-- Arqueologia da Alimentação
+- Palinologia do Quaternário
+- Palinologia Arqueológica
+- Paleoecologia e Paleoambiente
+- Arqueobotânica/Microarqueobotânica
+- Arqueologia Pré-Histórica
 
 education:
   courses:
   - course: Doutorado em Arqueologia
-    institution: Universidade de São Paulo, USP, Brasil
-    year: 2000
-  - course: Mestrado em História
     institution: Universidade Federal de Pernambuco
-    year: 1990
-  - course: Gradução em História
-    institution: Universidade Federal de Pernambuco
-    year: 1983
-
-
-
-
+    year: 2021 - Atual
+  - course: Doutorado em Geologia
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2011 - 2007
+  - course: Mestrado em Geologia
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2005 - 2003
+  - course: Graduação em Ciências Biológicas
+    institution: Universidade Federal do Rio de Janeiro
+    year: 2002 - 1999
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,8 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:olivas@hotlink.com'
-
+  link: 'mailto:tuttyfreitas@gmail.com'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=l-Fr_xoAAAAJ&hl=pt-BR
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,15 +56,16 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: olivas@hotlink.com
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Líder do Grupo
+- Líder do grupo
 
 ---
 
-Possui graduação em História pela Universidade Federal de Pernambuco (1983), mestrado em História pela Universidade Federal de Pernambuco (1990) e doutorado em Arqueologia pela Universidade de São Paulo (2000). Atualmente é professor associado IV da Universidade Federal de Pernambuco. Tem experiência na área de Arqueologia, com ênfase em Arqueologia Pré-Histórica, atuando principalmente nos seguintes temas: pré-história do nordeste, grupos pré-históricos ceramistas, patrimônio cultural, turismo cultural, história colonial e arqueologia histórica com enfase na área de arqueologia de engenho.
+Possuo graduação em Ciências Biológicas pela Universidade do Grande Rio (2002). Mestrado (2005) e Doutorado (2011) em Ciências/ Geologia pelo Departamento de Geologia da Universidade Federal do Rio de Janeiro. Fiz um Pós-Doutorado (2014-2016) em Paleontologia Estratigráfica/ Paleoecologia e Biodiversidade Vegetal pela Universidade de Murcia (Espanha). Atualmente, realizo um Pós-Doutorado pela Universidade Federal do Piauí com enfoque em pesquisas arqueobotânicas no atual Estado do Piauí: (a) palinologia arqueológica e forense; (b) microvestígios de plantas em contexto arqueológico e paleoambiente; (c) construção de coleções de referência (palinoteca, fitoliteca e amidoteca). Possuo experiência em Palinologia do Quaternário. Nos últimos anos, venho participando de projetos de pesquisa sobre reconstruções paleoambientais, paleoclimáticas e paleoecológicas, a partir de depósitos naturais (lagunar, marinho, caverna e turfeira) e antropogênicos de três distintas áreas biogeográficas do Brasil: Sudeste, Brasil Central e Nordeste. Desde 2018, lidero o Grupo de Pesquisa POLARQ - Palinologia arqueológica, Paleoambiente e Etnobotânica que está vinculado ao Programa de Pós-Graduação em Arqueologia da Universidade Federal do Piauí (PPGArq/UFPI). Desde 2017 sou Pesquisadora Colaboradora do PPGArq/UFPI. 
