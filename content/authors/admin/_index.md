@@ -16,12 +16,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Pesquisa a horticultura de grupso pré-coloniais
 
-interests:
+Interesses:
 - Horticultura pré-colonial
 - Geoarqueologia
 - GIS
 
-education:
+Formação:
   courses:
   - course: Doutorado em Arqueologia
     institution: Universidade Federal de Pernambuco
@@ -69,6 +69,4 @@ user_groups:
 
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Doutorando em Arqueologia pelo Programa de Pós-Graduação em Arqueologia da Universidade Federal de Pernambuco (PPGArq/UFPE) com pesquisa sobre a horticultura pré-colonial no Maciço de Baturité-CE; mestre em Arqueologia (PPGArq/UFPE) com pesquisa geoarqueológica sobre a formação do registro arqueológico de sítios de grupos coletores-caçadores na região dos Inhamuns-CE; graduado em História pela Universidade Estadual do Ceará (2008). Atuou como arqueólogo na Superintendência Estadual do Iphan no Ceará (Iphan-CE) entre 2015 e 2019.
