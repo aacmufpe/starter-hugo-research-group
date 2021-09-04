@@ -21,7 +21,7 @@ Interesses:
 - Geoarqueologia
 - GIS
 
-Formação:
+Education:
   courses:
   - course: Doutorado em Arqueologia
     institution: Universidade Federal de Pernambuco
