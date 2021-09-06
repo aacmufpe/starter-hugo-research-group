@@ -14,7 +14,7 @@ organizations:
   url: "www.uneb.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Arqueólogo
+bio: Geóloga
 
 interests:
 - Palinologia do Quaternário
@@ -68,4 +68,4 @@ user_groups:
 
 ---
 
-Graduado em História pela Universidade Federal de Juiz de Fora (UFJF), especialista e mestre em Ciência da Religião pela UFJF, e doutor em Arqueologia pela Universidade Federal de Pernambuco (UFPE). Atualmente é colaborador do Museu de Arqueologia e Etnologia Americana da UFJF, e professor na Universidade Federal do Vale do São Francisco (UNIVASF), ministrando as disciplinas História Indígena I e II, Introdução a Antropologia, História do Brasil Colonial, Métodos e Técnicas Arqueológicas III e IV. Tem experiência em pesquisas relacionadas as seguintes áreas temáticas: Arqueologia Pré-colonial, Arqueologia Histórica, História do Brasil Colonial, Preservação Patrimonial, Etnologia indígena, Etno-história e Antropologia da Religião. Possui experiência comprovada em trabalhos de Arqueologia Preventiva
+Pós-doutorado em Arqueologia (UFS); Doutorado e Mestrado em Geologia com pesquisas em Arqueologia Pré-Colonial (UFBA). Estágio de doutorado em Arqueologia Pré-Histórica na Universidade do Algarve (UALG), Portugal. Licenciatura em Ciências Biológicas (UFBA). Professora Adjunta da Universidade do Estado da Bahia (UNEB) onde leciona na graduação em Biologia, no Programa de Pós-Graduação em Ecologia Humana e Gestão Socioambiental e na especialização em Meio ambiente, Educação e Sustentabilidade no Semiárido. Coordena o Laboratório de Arqueologia e Paleontologia da UNEB. Desenvolve pesquisa e extensão em Arqueologia; Paleontologia; Ecologia Humana; Educação Científica e Educação Patrimonial.
