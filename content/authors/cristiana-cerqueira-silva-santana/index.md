@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alencar de Miranda Amaral
+title: Cristiana de Cerqueira Silva Santana
 
 # Is this the primary user of the site?
 superuser: false
@@ -10,8 +10,8 @@ role: Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade Federal Vale do São Francisco
-  url: "www.ufpe.br"
+- name: Universidade do Estado da Bahia
+  url: "www.uneb.br"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Arqueólogo
