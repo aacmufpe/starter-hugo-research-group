@@ -68,9 +68,8 @@ user_groups:
 
 ---
 
-organizations:
-- name: Universidade Federal de Pernambuco
-  url: "www.ufpe.br"
+
+[Universidade do Estado da Bahia](www.uneb.br)
 
 Pós-doutorado em Arqueologia (UFS); Doutorado e Mestrado em Geologia com pesquisas em Arqueologia Pré-Colonial (UFBA). Estágio de doutorado em Arqueologia Pré-Histórica na Universidade do Algarve (UALG), Portugal. Licenciatura em Ciências Biológicas (UFBA). Professora Adjunta da Universidade do Estado da Bahia (UNEB) onde leciona na graduação em Biologia, no Programa de Pós-Graduação em Ecologia Humana e Gestão Socioambiental e na especialização em Meio ambiente, Educação e Sustentabilidade no Semiárido. Coordena o Laboratório de Arqueologia e Paleontologia da UNEB. Desenvolve pesquisa e extensão em Arqueologia; Paleontologia; Ecologia Humana; Educação Científica e Educação Patrimonial.
 
