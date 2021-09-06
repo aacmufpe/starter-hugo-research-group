@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Cristiana de Cerqueira Silva Santana
+title: Beatriz Maria Almeida de Lima
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor 
+role: Graduanda em Arqueologia
 
 # Organizations/Affiliations
 organizations:
-- name: Universidade do Estado da Bahia
-  url: "http://http://www.ppgecoh.uneb.br/"
+- name: Universidade Federal de Pernambuco
+  url: "www.ufpe.br"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Geóloga
+bio: Arqueobotânica
 
 interests:
 - Palinologia do Quaternário
@@ -64,14 +64,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Pesquisador(a)
+- Graduando(a)
 
 ---
 
-
-
-
-
-Pós-doutorado em Arqueologia (UFS); Doutorado e Mestrado em Geologia com pesquisas em Arqueologia Pré-Colonial (UFBA). Estágio de doutorado em Arqueologia Pré-Histórica na Universidade do Algarve (UALG), Portugal. Licenciatura em Ciências Biológicas (UFBA). Professora Adjunta da [Universidade do Estado da Bahia (UNEB)](http://www.uneb.br) onde leciona na graduação em Biologia, no [Programa de Pós-Graduação em Ecologia Humana e Gestão Socioambiental](http://http://www.ppgecoh.uneb.br) e na especialização em Meio ambiente, Educação e Sustentabilidade no Semiárido. Coordena o Laboratório de Arqueologia e Paleontologia da UNEB. Desenvolve pesquisa e extensão em Arqueologia; Paleontologia; Ecologia Humana; Educação Científica e Educação Patrimonial.
-
----
+Possuo graduação em Ciências Biológicas pela Universidade do Grande Rio (2002). Mestrado (2005) e Doutorado (2011) em Ciências/ Geologia pelo Departamento de Geologia da Universidade Federal do Rio de Janeiro. Fiz um Pós-Doutorado (2014-2016) em Paleontologia Estratigráfica/ Paleoecologia e Biodiversidade Vegetal pela Universidade de Murcia (Espanha). Atualmente, realizo um Pós-Doutorado pela Universidade Federal do Piauí com enfoque em pesquisas arqueobotânicas no atual Estado do Piauí: (a) palinologia arqueológica e forense; (b) microvestígios de plantas em contexto arqueológico e paleoambiente; (c) construção de coleções de referência (palinoteca, fitoliteca e amidoteca). Possuo experiência em Palinologia do Quaternário. Nos últimos anos, venho participando de projetos de pesquisa sobre reconstruções paleoambientais, paleoclimáticas e paleoecológicas, a partir de depósitos naturais (lagunar, marinho, caverna e turfeira) e antropogênicos de três distintas áreas biogeográficas do Brasil: Sudeste, Brasil Central e Nordeste. Desde 2018, lidero o Grupo de Pesquisa POLARQ - Palinologia arqueológica, Paleoambiente e Etnobotânica que está vinculado ao Programa de Pós-Graduação em Arqueologia da Universidade Federal do Piauí (PPGArq/UFPI). Desde 2017 sou Pesquisadora Colaboradora do PPGArq/UFPI. 
