@@ -11,7 +11,7 @@ role: Doutorando em Arqueologia
 # Organizations/Affiliations
 organizations:
 - name: Universidade Federal de Pernambuco
-  url: "www.ufpe.br"
+  url: "http:://www.ufpe.br"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Aqui é o espaço para uma pequena biografia
