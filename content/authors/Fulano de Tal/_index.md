@@ -1,6 +1,6 @@
 ---
 # Display name
-title: [Fulano de Tal](https://orcid.org/0000-0002-8520-7080)
+title: Fulano de Tal
 
 # Is this the primary user of the site?
 superuser: false
